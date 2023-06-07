@@ -1,0 +1,47 @@
+{
+    "_id": "64803afabe6de4f4cb209e92",
+    "name": "uiappai",
+    "slug": "uiappai",
+    "organizationId": "Org",
+    "isPublic": false,
+    "isMenu": false,
+    "createdAt": "2023-06-07T08:08:26.504Z",
+    "updatedAt": "2023-06-07T08:08:26.504Z",
+    "deleted": false,
+    "pages": [
+        {
+            "_id": "home",
+            "isDefault": true
+        }
+    ],
+    "policies": [
+        {
+            "permission": "makePublic:applications",
+            "groups": [],
+            "users": []
+        },
+        {
+            "permission": "read:applications",
+            "groups": [],
+            "users": []
+        },
+        {
+            "permission": "publish:applications",
+            "groups": [],
+            "users": []
+        },
+        {
+            "permission": "manage:applications",
+            "groups": [],
+            "users": []
+        }
+    ],
+    "gitApplicationMetadata": {
+        "browserSupportedRemoteUrl": "https://github.com/fenota-viktoriya/uaTemplatesAI",
+        "defaultApplicationId": "uiappai",
+        "defaultBranchName": "main",
+        "isRepoPrivate": true,
+        "remoteUrl": "git@github.com:fenota-viktoriya/uaTemplatesAI.git",
+        "repoName": "uaTemplatesAI"
+    }
+}
